@@ -22,28 +22,42 @@ Busco construir **soluciones profesionales y simples** para problemas complejos.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
+## Proyectos
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Proyecto | Descripción | Tecnologías | 
+|----------|-------------|-------------|
+| **RosaGitana** | Sistema de registro y contabilidad para una tienda | Vue.js, TypeScript |
+| **Archivision** | Repositorio de proyectos para arquitectos | Figma (diseño) |
+| **SistemaGC** | Sistema de gestión de combustible | Next.js, Django REST Framework, PostgreSQL | 
 
 
 ## 📫 Contacto
 
 - lianetparra7@gmail.com
 - https://github.com/lianet-sys
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
