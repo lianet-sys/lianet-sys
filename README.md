@@ -22,3 +22,28 @@ Busco construir **soluciones profesionales y simples** para problemas complejos.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 📫 Contacto
+
+- lianetparra7@gmail.com
+- https://github.com/lianet-sys
+
