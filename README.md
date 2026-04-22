@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**lianet-sys/lianet-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Proyectos
+
+| Proyecto | Descripción | Tecnologías | 
+|----------|-------------|-------------|
+| **RosaGitana** | Sistema de registro y contabilidad para una tienda | Vue.js, TypeScript |
+| **Archivision** | Repositorio de proyectos para arquitectos | Figma (diseño) |
+| **SistemaGC** | Sistema de gestión de combustible | Next.js, Django REST Framework, PostgreSQL | 
